@@ -1,4 +1,4 @@
-aiobotocore==2.17.0
+aiobotocore>=2.17.1
 aiohappyeyeballs==2.4.4
 aiohttp==3.11.11
 aioitertools==0.12.0
